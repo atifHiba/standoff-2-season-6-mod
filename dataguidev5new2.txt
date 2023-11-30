@@ -31,20 +31,20 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2886805-1",
+"yandex_inter":"R-M-2886805-3",
+"yandex_native":"R-M-2886805-2",
+"yandex_reward":"R-M-2886805-4",
 
-"detail_first_button":"first button",
-"detail_second_button":"12MB",
-"detail_text_title":"how to use title text",
-"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
+"detail_first_button":"other link to download",
+"detail_second_button":"16MB",
+"detail_text_title":"how to install the mod of standoff 2",
+"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download standoff 2 folder and Extract to .zip file which ", 
  
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
@@ -52,38 +52,38 @@
 },
  
  "my_data":[
-  {"title":"title1 ser",
+  {"title":"GUIDE HOW TO DOWNLOAD THIS MOD MENU OF STANDOFF 2 ",
+  "download_num":"584458",
+  "visite_num":"21421",
+  "photo":"https://i.ytimg.com/vi/suVtMV5T2wA/maxresdefault.jpg"},
+  {"title":"HOW TO INSTALL THE MOD ",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser",
+  "photo":"https://i.ytimg.com/vi/01zrkph00sc/maxresdefault.jpg"},
+  {"title":"Skins Farm - голда и скины",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser",
+  "photo":"https://zabavnikplus.ru/wp-content/uploads/d/3/e/d3e8e2dd45edfe63c0a6988c905240d1.jpeg"},
+  {"title":"Skins Farm - голда и скины 2 ",
+  "download_num":"58458",
+  "visite_num":"5141",
+  "photo":"https://i.ytimg.com/vi/4FnO9bb7j8o/maxresdefault.jpg"},
+  {"title":"Skins Farm - голда и скины 3 ",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser",
+  "photo":"https://i.ytimg.com/vi/axsNM1K0BHQ/maxresdefault.jpg"},
+  {"title":"Skins Farm - голда и скины 4",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser",
+  "photo":"https://i.ytimg.com/vi/CqFDMGJYH18/maxresdefault.jpg"},
+  {"title":"Skins Farm - голда и скины 5",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  "photo":"https://i.pinimg.com/originals/a8/c1/56/a8c15639cb5c8aa9f67f54040015b685.jpg"},
+  {"title":"",Skins Farm - голда и скины 7 
+  "download_num":"5818",
+  "visite_num":"1141",
+  "photo":"https://mobile-cdn.softpedia.com/apk/images/standoff-2_1.jpg"}
    ],
   
   "more_apps_info":[
