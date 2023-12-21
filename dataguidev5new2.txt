@@ -14,7 +14,7 @@
 
   
 "ironsource_inter":"DefaultInterstitial",
-"iron_appkey":"85460dcd",
+"iron_appkey":"1cf4107f5",
 "ironsource_banner":"DefaultBanner",
 "ironsource_reward":"DefaultReward",
  
@@ -31,20 +31,21 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2886805-1",
-"yandex_inter":"R-M-2886805-3",
-"yandex_native":"R-M-2886805-2",
-"yandex_reward":"R-M-2886805-4",
+"yandex_banner":"R-M-4505685-1",
+"yandex_inter":"R-M-4505685-3",
+"yandex_native":"R-M-4505685-2",
+"yandex_reward":"R-M-4505685-4",
+"yandex_appopen":"R-M-4505685-5",
 
-"detail_first_button":"other link to download",
-"detail_second_button":"16MB",
-"detail_text_title":"how to install the mod of standoff 2",
-"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download standoff 2 folder and Extract to .zip file which ", 
+"detail_first_button":"watch how to download ",
+"detail_second_button":"17MB",
+"detail_text_title":"how to use the mod helper",
+"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"ironsource", 
+"interstisial_network_choice":"ironsource", 
+"reward_network_choice":"ironsource",
+"native_network_choice":"ironsource"
   
   
 
@@ -52,47 +53,46 @@
 },
  
  "my_data":[
-  {"title":"GUIDE HOW TO DOWNLOAD THIS MOD MENU OF STANDOFF 2 ",
-  "download_num":"584458",
-  "visite_num":"21421",
-  "photo":"https://i.ytimg.com/vi/suVtMV5T2wA/maxresdefault.jpg"},
-  {"title":"HOW TO INSTALL THE MOD ",
+  {"title":"standoff helper mod 4 ",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://i.ytimg.com/vi/01zrkph00sc/maxresdefault.jpg"},
-  {"title":"Skins Farm - голда и скины",
+  "photo":"https://getgadgets.in/wp-content/uploads/2021/05/b1bdbe3acddfaef02ed3a9b2670090ce.jpg"},
+  {"title":"standoff helper mod 2",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://zabavnikplus.ru/wp-content/uploads/d/3/e/d3e8e2dd45edfe63c0a6988c905240d1.jpeg"},
-  {"title":"Skins Farm - голда и скины 2 ",
-  "download_num":"58458",
-  "visite_num":"5141",
-  "photo":"https://i.ytimg.com/vi/4FnO9bb7j8o/maxresdefault.jpg"},
-  {"title":"Skins Farm - голда и скины 3 ",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://i.ytimg.com/vi/axsNM1K0BHQ/maxresdefault.jpg"},
-  {"title":"Skins Farm - голда и скины 4",
-  "download_num":"58458",
-  "visite_num":"2141",
-  "photo":"https://i.ytimg.com/vi/CqFDMGJYH18/maxresdefault.jpg"},
-  {"title":"Skins Farm - голда и скины 5",
+  "photo":"https://i.ytimg.com/vi/LNYuWZ9p3dk/maxresdefault.jpg"},
+  {"title":"standoff helper mod 3",
+  "download_num":"588",
+  "visite_num":"241",
+  "photo":"https://papik.pro/grafic/uploads/posts/2023-10/1696587546_papik-pro-p-arti-standoff-2-52.jpg"},
+  {"title":"standoff helper mod 4",
+  "download_num":"558",
+  "visite_num":"41",
+  "photo":"https://gas-kvas.com/grafic/uploads/posts/2023-09/1695882312_gas-kvas-com-p-kartinki-standoff-45.jpg"},
+  {"title":"standoff helper mod 5",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://i.pinimg.com/originals/a8/c1/56/a8c15639cb5c8aa9f67f54040015b685.jpg"},
-  {"title":"",Skins Farm - голда и скины 7 
-  "download_num":"5818",
-  "visite_num":"1141",
-  "photo":"https://mobile-cdn.softpedia.com/apk/images/standoff-2_1.jpg"}
+  "photo":"https://howmanyplay.com/wp-content/uploads/2020/07/134313-min.jpg"},
+  {"title":"standoff helper mod 6",
+  "download_num":"58458",
+  "visite_num":"241",
+  "photo":"https://cdn.ksyru0-fusion.fds.api.mi-img.com/middle.community.micommunityru.bkt/a4a171800d75816cfa5943e18457f250"},
+  {"title":"standoff helper mod 1",
+  "download_num":"58458",
+  "visite_num":"241",
+  "photo":"http://klubmama.ru/uploads/posts/2022-08/1661733359_7-klubmama-ru-p-podelki-stendoff-2-foto-7.jpg"},
+  {"title":"standoff helper mod 8",
+  "download_num":"5458",
+  "visite_num":"41",
+  "photo":"https://proprikol.ru/wp-content/uploads/2021/01/kartinki-standoff-12.jpg"}
    ],
   
   "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"app 1","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app 2","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app 3","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app 4","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app 5","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
    ]
  
 }
-   
